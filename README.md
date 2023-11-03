@@ -6,6 +6,6 @@ In this project, I create a movie database with a variety of reference tables. T
 * For a specific film title, calculate the proportion of women to men.
 * Which 10 actors have the most films in the database?
 
-This project uses MySQL, to query, create variables, and create CTEs to extract information from the data.
+This project uses MySQL to query, create variables, and create CTEs to extract information from the data.
 
 The data used to build the database was sampled from [this GitHub repository](https://github.com/bbrumm/databasestar/tree/main/sample_databases/sample_db_movies).
